@@ -38,3 +38,4 @@ Through projects like **Fritids-schema**, I've transformed ideas into functional
 
 - 💼 [LinkedIn – ayaali00](https://www.linkedin.com/in/ayaali00/)
 - 🧑‍💻 [GitHub – ayoshi-pixel](https://github.com/ayoshi-pixel)
+- <iframe src="https://claude.site/public/artifacts/aaebc6d8-a472-416e-bdf3-2a93efc5795d/embed" title="Claude Artifact" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
